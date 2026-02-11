@@ -1,0 +1,29 @@
+{
+  "name": "javascriptmovieseatbookstart-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisGustafsson/javascriptmovieseatbookSTART-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DennisGustafsson/javascriptmovieseatbookSTART-main/issues"
+  },
+  "homepage": "https://github.com/DennisGustafsson/javascriptmovieseatbookSTART-main#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-standard": "^3.1.0",
+    "eslint-plugin-import": "^2.32.0",
+    "globals": "^17.3.0"
+  }
+}
